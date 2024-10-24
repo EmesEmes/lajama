@@ -56,13 +56,10 @@ const Main = () => {
         <div>
           <Logout />
         </div>
-        {/* <div className="max-w-[79%] mt-10">
-                <tableau-viz id="tableauViz"       
-                src='https://public.tableau.com/views/CustomerSupportDashboard_17274500677220/Overview?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'      
-                toolbar="bottom" hide-tabs>
-                </tableau-viz>
+        <div className="max-w-[79%] mt-10">
+        <iframe title="BORRADOR PBI" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=a8fc47f4-0665-479c-a2e1-a3b8cd7c4619&autoAuth=true&ctid=e9193073-ba8b-4e38-8647-ba6687270821" frameBorder="0" allowFullScreen="true"></iframe> 
                 
-        </div> */}
+        </div>
     </main>
   )
 }
