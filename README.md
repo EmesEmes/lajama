@@ -12,8 +12,8 @@ La implementación del Dashboard será una solución integral para centralizar l
 ## Equipo
 * Daniela Barragán (Análisis de Datos)
 * Fabián (Análisis de Datos)
-* Jamil (Diseño UX UI)
-* AlejandrO (Diseño UX UI)
+* Jamil Vera(Diseño UX UI)
+* Alejandro Lojano (Diseño UX UI)
 * Bryan Freire (FullStack)
 * Emilio del Hierro (FullStack)
 
